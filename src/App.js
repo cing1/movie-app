@@ -9,7 +9,7 @@ function App() {
 
 	const [options, setOptions] = useState([
 		{
-			path:"/",
+			path:"/movie-app",
 			label: "Inicio"
 		},
 		{
